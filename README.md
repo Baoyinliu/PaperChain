@@ -39,12 +39,12 @@
 ##### 查看历史上传内容
 ![image.png](https://cdn.nlark.com/yuque/0/2022/png/26756779/1658289166912-45646cf4-06df-42ce-95e1-63dbe24d3486.png#clientId=ub2c0a0d2-a0e8-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=522&id=uad7719d4&margin=%5Bobject%20Object%5D&name=image.png&originHeight=1288&originWidth=1651&originalType=binary&ratio=1&rotation=0&showTitle=false&size=602176&status=done&style=none&taskId=u4ea488c6-d103-48d1-870d-d4734521b9d&title=&width=669)
 ##### 下载社区与下载工具
-![image.png](https://cdn.nlark.com/yuque/0/2022/png/26756779/1658289826964-a2700928-b684-4817-8f82-48f3a3ab162c.png#clientId=ub2c0a0d2-a0e8-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=391&id=ua5647fc3&margin=%5Bobject%20Object%5D&name=image.png&originHeight=1324&originWidth=2258&originalType=binary&ratio=1&rotation=0&showTitle=false&size=509657&status=done&style=none&taskId=uc52acb72-88e8-4866-a379-9b9671e1294&title=&width=667)
+![image.png](https://github.com/Baoyinliu/PaperChain/blob/main/imgs/3.png)
 ##### 下载付费
 ![image.png](https://cdn.nlark.com/yuque/0/2022/png/26756779/1658289904230-4eb9ea25-50b4-4f30-b727-d060dc0957d1.png#clientId=ub2c0a0d2-a0e8-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=377&id=ub8eee6f5&margin=%5Bobject%20Object%5D&name=image.png&originHeight=1276&originWidth=2296&originalType=binary&ratio=1&rotation=0&showTitle=false&size=460650&status=done&style=none&taskId=u89912af3-73c8-4303-8754-b5d84c7c3f8&title=&width=678)
 ##### 下载成功
 ![image.png](https://cdn.nlark.com/yuque/0/2022/png/26756779/1658289965409-21b5d839-e6ce-4fcd-9062-5ec4d759ce14.png#clientId=ub2c0a0d2-a0e8-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=462&id=u250d8ce5&margin=%5Bobject%20Object%5D&name=image.png&originHeight=1274&originWidth=1888&originalType=binary&ratio=1&rotation=0&showTitle=false&size=448957&status=done&style=none&taskId=u17785eea-6b23-4204-ac35-16bab239dae&title=&width=685)
-![image.png](https://cdn.nlark.com/yuque/0/2022/png/26756779/1658289984501-71476849-a91c-4ade-85dd-e5e230f8fc60.png#clientId=ub2c0a0d2-a0e8-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=384&id=u64777301&margin=%5Bobject%20Object%5D&name=image.png&originHeight=930&originWidth=1641&originalType=binary&ratio=1&rotation=0&showTitle=false&size=92918&status=done&style=none&taskId=uac944d14-4e7b-4e71-b9a7-c523b37bc82&title=&width=677)
+![image.png](https://github.com/Baoyinliu/PaperChain/blob/main/imgs/4.png)
 ![image.png](https://cdn.nlark.com/yuque/0/2022/png/26756779/1658290018806-878789f3-3651-4fc7-b9bf-4b557bbcc273.png#clientId=ub2c0a0d2-a0e8-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=354&id=u368fdf54&margin=%5Bobject%20Object%5D&name=image.png&originHeight=731&originWidth=637&originalType=binary&ratio=1&rotation=0&showTitle=false&size=43331&status=done&style=none&taskId=u00cd1b9b-37ed-4d6e-9616-0ab18f6f9b6&title=&width=308.8484848484849)
 
 
