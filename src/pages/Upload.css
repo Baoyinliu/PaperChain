@@ -1,0 +1,12 @@
+.mycard {
+    background-color: #F7F9F9;
+    border-radius: 25px;
+    min-height: 600px;
+    max-width: 500px;
+    margin-top: 40px;
+    padding: 20px;
+    font-weight: bold;
+    font-size: 18px;
+    overflow: hidden;
+    justify-content: center;
+  }
